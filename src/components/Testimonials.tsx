@@ -8,7 +8,8 @@ const testimonials = [
     id: 1,
     name: "Sarah Johnson",
     role: "Fitness Coach",
-    image: "/testimonial1.jpg",
+    image:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
     content:
       "Watching David's dedication to his Ironman training has been truly inspiring. His discipline and commitment to excellence are remarkable.",
   },
@@ -16,7 +17,8 @@ const testimonials = [
     id: 2,
     name: "Michael Chen",
     role: "Training Partner",
-    image: "/testimonial2.jpg",
+    image:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
     content:
       "Training alongside David has pushed me to new limits. His positive attitude and determination are contagious.",
   },
@@ -24,7 +26,8 @@ const testimonials = [
     id: 3,
     name: "Emma Rodriguez",
     role: "Sports Nutritionist",
-    image: "/testimonial3.jpg",
+    image:
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
     content:
       "David's approach to nutrition and training is methodical and well-researched. He's a great example of how proper planning leads to success.",
   },

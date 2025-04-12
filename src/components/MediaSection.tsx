@@ -7,19 +7,22 @@ const videos = [
   {
     id: "video1",
     title: "Swimming Training Session",
-    thumbnail: "/swim-thumbnail.jpg",
+    thumbnail:
+      "https://images.unsplash.com/photo-1530549387789-4c1017266635?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     youtubeId: "YOUR_YOUTUBE_ID_1",
   },
   {
     id: "video2",
     title: "Cycling Long Ride",
-    thumbnail: "/bike-thumbnail.jpg",
+    thumbnail:
+      "https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     youtubeId: "YOUR_YOUTUBE_ID_2",
   },
   {
     id: "video3",
     title: "Running Interval Training",
-    thumbnail: "/run-thumbnail.jpg",
+    thumbnail:
+      "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     youtubeId: "YOUR_YOUTUBE_ID_3",
   },
 ];
@@ -28,19 +31,22 @@ const reels = [
   {
     id: "reel1",
     title: "Morning Swim Session",
-    thumbnail: "/reel1.jpg",
+    thumbnail:
+      "https://images.unsplash.com/photo-1600965962324-59e4df9c2c1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     instagramUrl: "https://instagram.com/p/YOUR_REEL_ID_1",
   },
   {
     id: "reel2",
     title: "Bike Maintenance Tips",
-    thumbnail: "/reel2.jpg",
+    thumbnail:
+      "https://images.unsplash.com/photo-1511994298241-608e28f14fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     instagramUrl: "https://instagram.com/p/YOUR_REEL_ID_2",
   },
   {
     id: "reel3",
     title: "Race Day Preparation",
-    thumbnail: "/reel3.jpg",
+    thumbnail:
+      "https://images.unsplash.com/photo-1628891890467-b79f2c8ba9dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     instagramUrl: "https://instagram.com/p/YOUR_REEL_ID_3",
   },
 ];

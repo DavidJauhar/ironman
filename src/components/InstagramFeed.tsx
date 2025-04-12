@@ -6,7 +6,8 @@ import { FaInstagram } from "react-icons/fa";
 const instagramPosts = [
   {
     id: 1,
-    image: "/instagram1.jpg",
+    image:
+      "https://images.unsplash.com/photo-1530549387789-4c1017266635?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     caption: "Early morning swim session 🌅 #IronmanTraining",
     likes: 245,
     comments: 12,
@@ -14,7 +15,8 @@ const instagramPosts = [
   },
   {
     id: 2,
-    image: "/instagram2.jpg",
+    image:
+      "https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     caption: "New personal best on the bike! 🚴‍♂️ #Progress",
     likes: 312,
     comments: 18,
@@ -22,7 +24,8 @@ const instagramPosts = [
   },
   {
     id: 3,
-    image: "/instagram3.jpg",
+    image:
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     caption: "Recovery day essentials 🧘‍♂️ #RestDay",
     likes: 189,
     comments: 8,
@@ -30,7 +33,8 @@ const instagramPosts = [
   },
   {
     id: 4,
-    image: "/instagram4.jpg",
+    image:
+      "https://images.unsplash.com/photo-1532465614-6cc8d45f647f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     caption: "Nutrition prep for the week 🥗 #FuelYourBody",
     likes: 276,
     comments: 15,
