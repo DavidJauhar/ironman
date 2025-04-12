@@ -9,7 +9,7 @@ import InteractiveFeature from "@/components/InteractiveFeature";
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <>
       <Hero />
       <TrainingData />
       <NutritionPlan />
@@ -18,6 +18,6 @@ export default function Home() {
       <InstagramFeed />
       <Philanthropy />
       <InteractiveFeature />
-    </main>
+    </>
   );
 }

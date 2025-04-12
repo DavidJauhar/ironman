@@ -35,7 +35,7 @@ export default function RootLayout({
         className={`${inter.className} ${montserrat.variable} bg-white text-black min-h-screen`}
       >
         <Navbar />
-        <main className="pt-16">{children}</main>
+        <main>{children}</main>
         <footer className="py-12 bg-black text-white">
           <div className="container mx-auto">
             <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
